@@ -1,2 +1,19 @@
-# career-chatbot-
-Career Chatbot is an AI-based application designed to assist users in making informed career decisions. The chatbot interacts with users, understands their interests, skills, and educational background, and provides personalized career suggestions.
+# Career Chatbot 🤖
+
+## 📌 Overview
+An AI-based chatbot that provides personalized career guidance based on user interests, skills, and education.
+
+## 🚀 Features
+- Career suggestions based on user input
+- Interactive chatbot interface
+- Fast and simple responses
+
+## 🛠️ Technologies Used
+- Python
+- Machine Learning
+- NLP
+- Tkinter
+
+
+## 👤 Author
+KEERTHI
